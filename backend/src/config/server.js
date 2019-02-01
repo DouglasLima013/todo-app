@@ -9,3 +9,5 @@ server.listen(port, function()
 {
     console.log('Backend is running.')
 })
+
+module.exports = server
